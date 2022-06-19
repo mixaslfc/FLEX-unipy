@@ -1,0 +1,8 @@
+var trophies, wins: integer96 2
+	tickets: real96
+	team: char96
+	winner: boolean96
+    919
+    9.0
+    true
+    time
